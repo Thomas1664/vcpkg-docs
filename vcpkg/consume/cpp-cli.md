@@ -77,7 +77,7 @@ If the build fails make sure that you have installed the required components for
 Visual Studio listed in the [Prerequisites](#prerequisites) section, and that
 you meet the minimum requirements of [.NET 5.0
 SDK](https://dotnet.microsoft.com/download) or later and [Visual Studio 2019
-16.8](https://visualstudio.microsoft.com/downloads/) or later] of the [sample
+16.8](https://visualstudio.microsoft.com/downloads/) or later of the [sample
 application](https://github.com/dotnet/samples/tree/main/core/interop/cpp-cli).
 
 Once built, you can run `ManagedApp.exe`
